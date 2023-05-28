@@ -9,3 +9,12 @@ for git commit local , inital we need to config user name and user email (ex.git
 can see config file using  - git config --global -e
 
 git remote add orgin and to check git remote -v
+
+by default local rep has branch master, where remote is main, so i think  upstream is nee.
+to set remote url name can be anything.. but have to use it carefully when push the codee
+
+
+pwd to see current directory
+To toggle the terminal panel, use the Ctrl+`
+
+create gitignore file with no extension and write file name in that to ignore

@@ -18,3 +18,5 @@ pwd to see current directory
 To toggle the terminal panel, use the Ctrl+`
 
 create gitignore file with no extension and write file name in that to ignore
+
+create branch using branch <name>

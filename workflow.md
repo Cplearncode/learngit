@@ -7,3 +7,5 @@ git status - to see withich files are tracked, - to get tracked use git add file
 after git add comment if u do changes it won't reflect (add used to apply changes)
 for git commit local , inital we need to config user name and user email (ex.git config --global user.name "")
 can see config file using  - git config --global -e
+
+git remote add orgin and to check git remote -v

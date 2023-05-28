@@ -20,3 +20,5 @@ To toggle the terminal panel, use the Ctrl+`
 create gitignore file with no extension and write file name in that to ignore
 
 create branch using branch <name>
+
+to merge local use merge <branch-name> if from remote use origin/<branch-name>

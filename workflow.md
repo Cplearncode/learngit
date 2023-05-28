@@ -15,6 +15,7 @@ to set remote url name can be anything.. but have to use it carefully when push 
 
 
 pwd to see current directory
+mkdir to create new folder
 To toggle the terminal panel, use the Ctrl+`
 
 create gitignore file with no extension and write file name in that to ignore

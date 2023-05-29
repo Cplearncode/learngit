@@ -25,3 +25,4 @@ create branch using branch <name>
 to merge local use merge <branch-name> if from remote use origin/<branch-name>
 
 pull rebase - put local commit on top and update other commits below it from remote to local
+git pull --rebase

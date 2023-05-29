@@ -12,7 +12,7 @@ git remote add orgin and to check git remote -v
 
 by default local rep has branch master, where remote is main, so i think  upstream is nee.
 to set remote url name can be anything.. but have to use it carefully when push the codee
-
+! checking rebase pull
 
 pwd to see current directory
 mkdir to create new folder
